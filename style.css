@@ -1,0 +1,23 @@
+body {
+	background-color: #BAD43D;
+	max-height: 500px;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
+h1 {
+	margin: 20px;
+	font-size: 24px;
+	font-family: helvetica;
+	font-variant: bold;
+	color: white;
+}
+
+p {
+	font-size: 18px;
+	font-family: helvetica;
+	font-variant: light;
+	color: white;
+	margin: 20px;
+
+}
